@@ -1,0 +1,13 @@
+Menu Médico:
+	Funcionalidades:
+	-Consultar Registros Alunos;
+	-Consultar Agenda.
+
+Consultar Registros Alunos:
+	Funcionalidades:
+	-Exibir Registros Alunos;
+	-Atualizar Registro;
+
+Consultar Agenda:
+	Funcionalidades:
+	-Exibir Agenda.

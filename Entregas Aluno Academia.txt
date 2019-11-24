@@ -1,0 +1,19 @@
+Menu Aluno:
+	Funcionalidades:
+	-Consultar Treinos;
+	-Agendar Avaliação;
+	-Agendar Aulas.
+
+Consultar Treinos:
+	Funcionalidades:
+	-Exibir Treinos do Aluno
+
+Agendar Avaliação:
+	Funcionalidades:
+	-Realizar Agendamento Avaliação;
+	-Exibir Agendamento das Avaliações.
+
+Agendar Aulas:
+	Funcionalidades:
+	-Agendar Aulas;
+	-Exibir Agendamento das Aulas.

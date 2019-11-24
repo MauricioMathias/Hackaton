@@ -1,0 +1,18 @@
+Menu Professor:
+	Funcionalidades:
+		-Registar Treinamento Alunos;
+		-Inserir Dados Alunos;
+		-Gerar Relatório Alunos.
+
+Registar Treinamento Alunos:
+	Funcionalidades:
+	-Armazenar Treinamento Alunos.
+
+Inserir Dados Alunos:
+	Funcionalidades:
+	-Armazenar Evolução Aluno.
+
+Gerar Relatório Alunos:
+	Funcionalidades:
+	-Exibir Relatório Evolução Aluno;
+	-Exibir Relatório Evolução Grupos.

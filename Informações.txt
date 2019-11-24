@@ -1,0 +1,13 @@
+Equipe:
+Analista de negócio
+Analista de teste
+Analista de Banco de Dados
+Gerente do Projeto
+Desenvolvedor Front-End
+Desenvolvedor Back-End
+Designer de Experiencia do Usuário
+
+Entregas:
+As entregas serão feitas uma por mês, com exceção da Entregas academia e Entregas Médico Academia que serão entregues juntas.
+Cada entrega terá o custo de um mês de trabalho de cada participante da equipe, mais 20% do valor total
+para o caso de problemas de cronograma ou de mudanças no escopo do projeto.

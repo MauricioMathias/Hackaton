@@ -1,0 +1,22 @@
+Menu Administrador:
+	Funcionalidades:
+	-Exportar Dados:
+		-Exportar Atividades Alunos;
+		-Exportar Avaliações Grupo Professor.
+	-Vizualizar Alunos Modalidade.
+
+Exportar Atividades Alunos:
+	Funcionalidades:
+	-Exportar Atividades Extras 
+	-Exportar Frequência 
+
+Exportar Avaliações Grupo Professor:
+	Funcionalidades:
+	-Exportar Estatísticas de Evolução;
+
+Vizualizar Alunos Modalidade:
+	Funcionalidades:
+	-Visualizar Alunos por Modalidade;
+	-Exportar Alunos por Modalidade.
+
+
